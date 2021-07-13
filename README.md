@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chikondibanda
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning JavaScript
+- 👨‍💻 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web design project or Vue project
-- 📫 You can reach on IG at @chikondibanda_
+- 📫 You can reach on Instagram at @chikondibanda_
 
 <!---
 chikondibanda/chikondibanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
