@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @chikondibanda
-- 👀 I’m interested in UI and frontend development
-- 👨‍💻 I’m currently learning JavaScript
+- 👀 I’m interested in frontend development
+- 👨‍💻 I’m currently sharing about HTML and CSS on Youtube ![YoutubeLogoGIF](https://github.com/chikondibanda/chikondibanda/assets/39994120/196892a5-596d-466c-82c9-67d597e6bbdf)
+
+
 - 📫 You can reach on Instagram at @chikondibanda_
 
 <!---
